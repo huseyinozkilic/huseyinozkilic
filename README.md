@@ -11,4 +11,4 @@ A Full-Stack Developer with industry experience building web application used by
 - 📫 How to reach me: [Huseyin OZKILIC](mailto:huseyin.ozkilic@windowslive.com?subject=Hi)
 
 ### My GitHub stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=catalinpit&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=huseyinozkilic&show_icons=true)
