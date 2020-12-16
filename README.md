@@ -6,7 +6,7 @@ A Full-Stack Developer with industry experience building web application used by
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/huseyinozkilic/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/huseyinozkilic/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ozkilich)
 
 
-- 🔭 I’m currently working on [Teknodaş](https://teknodas.com), [RadSoft Technologies](https://www.radsoft.tech/), [Master Software](https://www.mastersoftware.net/)
+- 🔭 I’m currently working on [RadSoft Technologies](https://www.radsoft.tech/), [Master Software](https://www.mastersoftware.net/)
 - 💬 Ask me about anything 😊
 - 📫 How to reach me: [Huseyin OZKILIC](mailto:huseyin.ozkilic@windowslive.com?subject=Hi)
 
