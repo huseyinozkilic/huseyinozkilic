@@ -1,6 +1,6 @@
 Im Huseyin OZKILIC
 
-A Full-Stack Developer with industry experience building web application used by millions of people. Specializing in PHP, Python, .Net, JavaScript technologies and AWS, Azure. Professional experience working with PHP, Python, Node.Js, AWS, Azure and RFID. 
+A Full-Stack Developer with 15 years industry experience building web application used by millions of people. Specializing in PHP, Python, .Net, JavaScript technologies and AWS, Azure. Professional experience working with PHP, Python, Node.Js, AWS, Azure and RFID. 
 
 ### You can also find me on
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/huseyinozkilic/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/huseyinozkilic/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ozkilich)
