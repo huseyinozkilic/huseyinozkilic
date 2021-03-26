@@ -15,7 +15,7 @@ Professional experience working with PHP, Laravel, CodeIgniter, Python, Node.Js,
 ![MongoDb](https://img.shields.io/badge/-MongoDb-black?style=flat-square&logo=Mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Material-ui](https://img.shields.io/badge/-Material-black?style=flat-square&logo=Material-ui)
-
+![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=Android)
 
 ### You can also find me on
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/huseyinozkilic/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/huseyinozkilic/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ozkilich)
