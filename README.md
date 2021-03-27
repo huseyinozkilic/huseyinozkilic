@@ -15,22 +15,22 @@ Professional experience working with PHP, Laravel, CodeIgniter, Python, Node.Js,
     <a href="https://twitter.com/ozkilich" target="blank">
         <img align="center"
             src="https://img.shields.io/badge/-1DA1F2.svg?logoColor=white&style=for-the-badge&logo=twitter"
-            alt="selcux" />
+            alt="huseyinozkilic" />
     </a>
     <a href="https://linkedin.com/in/huseyinozkilic" target="blank">
         <img align="center"
             src="https://img.shields.io/badge/-0077B5.svg?logoColor=white&style=for-the-badge&logo=linkedin"
-            alt="selcux" />
+            alt="huseyinozkilic" />
     </a>
     <a href="https://dev.to/huseyinozkilic" target="blank">
         <img align="center"
             src="https://img.shields.io/badge/-0A0A0A.svg?logoColor=white&style=for-the-badge&logo=dev.to"
-            alt="selcux" />
+            alt="huseyinozkilic" />
     </a>
     <a href="https://hashnode.com/@ozkilich" target="blank">
         <img align="center"
             src="https://img.shields.io/badge/-2962FF.svg?logoColor=white&style=for-the-badge&logo=hashnode"
-            alt="selcux" />
+            alt="huseyinozkilic" />
     </a>
 </p>
 
@@ -83,5 +83,5 @@ Professional experience working with PHP, Laravel, CodeIgniter, Python, Node.Js,
 
 <details>
 	<summary>:zap: Wakatime Stats</summary>
-	<img src="https://github-readme-stats-git-master.vercel.app/api/wakatime?username=huseyinozkilic&show_icons=true&layout=compact" alt="huseyinozkilic">
+	<img src="https://wakatime.com/share/@huseyinozkilic/ac33f425-9e15-4897-a16c-e85c33511afd.svg" alt="huseyinozkilic">
 </details>
